@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Database ignore
-Jeopardy.json
+*.json
 
 # Distribution / packaging
 .Python
